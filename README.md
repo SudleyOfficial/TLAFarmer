@@ -175,7 +175,7 @@ creditLabel.Font = Enum.Font.GothamSemibold
 creditLabel.TextSize = 11
 creditLabel.TextXAlignment = Enum.TextXAlignment.Left
 creditLabel.TextColor3 = THEME_MUTED
-creditLabel.Text = "alt farmer"
+creditLabel.Text = "ALT FARMER"
 creditLabel.Parent = header
 
 local page = Instance.new("Frame")
